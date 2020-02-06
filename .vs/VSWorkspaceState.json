@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\env",
+    "\\env\\Lib",
+    "\\env\\Lib\\site-packages",
+    "\\env\\Lib\\site-packages\\pip",
+    "\\env\\Lib\\site-packages\\pip-19.2.3.dist-info",
+    "\\env\\Lib\\site-packages\\pkg_resources",
+    "\\env\\Lib\\site-packages\\pyserial-3.4.dist-info",
+    "\\env\\Lib\\site-packages\\setuptools",
+    "\\env\\Lib\\site-packages\\setuptools-41.2.0.dist-info"
+  ],
+  "SelectedNode": "\\env\\Lib\\site-packages\\pkg_resources",
+  "PreviewInSolutionExplorer": false
+}
